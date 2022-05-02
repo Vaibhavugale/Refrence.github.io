@@ -1,0 +1,50 @@
+introdution 
+
+Our main objective behind building this site is to provide educational references for students. 
+
+The enhancement of student learning performance and satisfaction
+represents one of the main objectives of educational systems.
+
+
+this platfrom introduse all refrences of Eductional websites ,
+for courses like Data structure and algorithm ,
+artificial intelligence and many more
+
+
+
+this platform isnt there for any particular stream but it is designed in such a way that it provides references to many other streams.
+
+
+MOTIVATION
+
+
+
+EXISTING SYSTEAM LIMITATIONS
+1.internet connection and technology related issues.
+2.conent cant be downloaded so no offline material available.
+3.Lack of interactivity with Learning material.
+
+
+
+DISADVANTAGES
+1.students progress cant be monitored as it is Instructional website.
+2.
+
+
+Advantages of proposed system  	
+1. E-Learning saves time and money.
+2.E-learning offers  personalization.
+3. students can watch the content based on reviews and rating given by there colegues.
+4. for teachers it becomes easy to share the study material because some material is not that easy to upload as it takes more data.
+
+System Specifications
+
+Software Requirement
+
+Front end coding : HTML, CSS
+Operating System : windows 10
+
+
+Hardware Requirements
+
+

@@ -1,0 +1,131 @@
+body{
+    margin: 0;
+    background-image: url(/home-background.png); 
+    /* background-position: center; */
+    background-size: cover;
+    align-items: center;
+   
+    
+  
+}
+.main1{
+    padding: 10px;
+}
+.youtube{
+    float: right;
+    margin-top: 10px;
+   
+}
+.video{
+    padding: 15px;
+    margin: 5px;
+}
+.video{
+    background-color: #101010;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #ffffff,
+                -2px -2px 2px #7c7272;                    ;
+    
+}
+.video:hover{
+  background-color: #ffffff;
+  color: #101010;
+  box-shadow: 2px 2px 2px #7c7272,
+            -2px -2px 2px #7c7272;
+            
+}
+.youtube a{
+ text-decoration: none;
+ overflow: scroll;
+ color: #ffffff;
+ font-size: 20px;
+ align-content: space-between;
+}
+.youtube a:hover{
+    color: #101010;
+}
+.theory a:hover{
+    color: #101010;
+}
+.Coding a:hover{
+    color: #101010;
+}
+.svg-icon{
+    height: 15px;
+}
+.youtube li{
+    list-style: none;
+}
+
+
+h2{
+    color: #ffffff;
+}
+.web{
+   float: left;
+   margin-top: 10px;
+ 
+}
+.theory{
+    padding: 15px;
+    margin: 5px;
+    background-color: #101010;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #ffffff,
+                -2px -2px 2px #7c7272;                      
+
+}
+.theory:hover{
+    background-color: #ffffff;
+    color: #101010;
+    box-shadow: 2px 2px 2px #7c7272,
+              -2px -2px 2px #7c7272;
+              
+  }
+.web a{
+    text-decoration: none;
+    overflow: scroll;
+    color: #ffffff;
+    font-size: 20px;
+    align-content: space-between;
+}
+.web li{
+    list-style: none;
+}
+.practice{
+    padding: 15px;
+    margin: 5px auto;
+    background-color: #101010;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #ffffff,
+                -2px -2px 2px #7c7272;  
+}
+.practice:hover{
+    background-color: #ffffff;
+    color: #101010;
+    box-shadow: 2px 2px 2px #7c7272,
+              -2px -2px 2px #7c7272;
+
+}
+.Coding li{
+    list-style: none;
+}
+.Coding a{
+    text-decoration: none;
+    overflow: scroll;
+    color: #ffffff;
+    font-size: 20px;
+    align-content: space-between;
+}
+.Coding h2{
+    margin-left: 25%;
+}
+.Coding{
+    position: fixed;
+    top: 12px;
+    right: 37%;
+}
+

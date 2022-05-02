@@ -1,0 +1,76 @@
+body{
+    background-image: url(/home-background.png);
+}
+
+
+.Container{
+   
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 70px;
+    background-color: #090b13;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 36px;
+    letter-spacing: 9px;
+    z-index: 3;
+}
+.box{
+    color: aliceblue;
+    padding:12px;
+    display: inline;
+    font-size: 25px;
+    
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+a:hover{
+    text-shadow: 5px 5px 5px #ffffff;
+     text-shadow:-5px -5px -5px #ffffff;
+}
+#login{
+    border: aliceblue solid;
+    border-radius: 20px;
+}
+#login:hover{
+    background-color: aliceblue;
+    border: #090b13 thin;
+    color: #090b13;
+    cursor: pointer;
+}
+
+
+
+.main{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 3%;
+    width: 1200px;
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    grid-template-rows: 200px 200px 200px;
+    gap: 30px;
+}
+.sub{
+    color: #ffffff;
+    background-color: #07080c;
+    border-radius: 20px;
+    box-shadow: 7px 7px 20px #535151,
+                -8px -8px 10px #ffffff;
+}
+.sub_1{
+    margin-top: 50px;
+    font-size: 65px;
+}
+.sub_1:hover{
+    cursor: pointer;
+}
+.sub_2{
+    margin: 50px;
+    font-size: 40px;
+}
